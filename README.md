@@ -7,6 +7,7 @@ leetcode questions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0177-nth-highest-salary) |
 ## Array
 |  |
 | ------- |
