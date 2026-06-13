@@ -16,6 +16,7 @@ leetcode questions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -29,6 +30,7 @@ leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
@@ -44,4 +46,8 @@ leetcode questions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
