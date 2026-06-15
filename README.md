@@ -20,6 +20,7 @@ leetcode questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,5 @@ leetcode questions
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 <!---LeetCode Topics End-->
