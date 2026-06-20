@@ -52,4 +52,12 @@ leetcode questions
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
