@@ -55,9 +55,11 @@ leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaudharyayush7409-afk/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
